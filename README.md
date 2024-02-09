@@ -1,6 +1,6 @@
 # NewsApp_UsingJava
 
-_by Shantanu yadav_
+_by Ujjwal KAtyal_
 
 **API KEY -** https://content.guardianapis.com/search?q=science&api-key=test&show-fields=thumbnail
 
